@@ -40,3 +40,10 @@ GitHub: For code hosting and sharing the final solution.
 
 4. Results
 Attaching screenshots to this repo
+
+5. Further Enhancements:
+a. On using spark, we can improve the performance
+b. Implementing Medallian Architecture, keeps it organised and as and when data flows, it will become richer in format
+c. Cleaning the data before processing it. So that the 'Unknown' value can be removed
+d. For Visualization, we can use 'Tableau'/ 'PowerBI' tools
+
