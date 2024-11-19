@@ -39,7 +39,7 @@ for char in characters:
     else:
         non_human_count += 1
 
-# finding the proportions
+# finding the proportions between humans and non-humans
 total = human_count + non_human_count
 proportions = {
     "Category": ["Human", "Non-Human"],
